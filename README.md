@@ -1,4 +1,5 @@
-# 🚀 Job Market Scraping & RAG Data Pipeline
+# 🚀 Job Cambodia Market Scraping for RAG Systems
+
 
 A comprehensive web scraping project for collecting and processing job data from multiple Cambodian job portals (CamHR, Jobify, and Workinga) with automated markdown generation for Retrieval-Augmented Generation (RAG) systems.
 
